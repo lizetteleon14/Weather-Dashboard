@@ -26,7 +26,7 @@
     <section>
         <p>
             The URL of the deployed application
-            <a href="">The URL of the deployed application</a>
+            <a href="https://lizetteleon14.github.io/Weather-Dashboard/">The URL of the deployed application</a>
         </p>
     </section>
     <section>
